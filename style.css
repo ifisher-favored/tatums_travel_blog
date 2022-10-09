@@ -1,0 +1,37 @@
+/* font-family changed the font to ariel*/
+* {
+    font-family: Arial;
+}
+
+/* changed family-font to geneva*/
+h1, h3 {
+    font-family: Geneva;
+}
+
+/*changed background color of body selector 
+body {
+    background-color: #e0ffff;
+}
+
+/*having difficulty adding the gradient*/
+article {
+
+    background: linear-gradient (#e0ffff, yellow);
+}
+
+/*added image pattern behind the header only*/
+header {
+    background-image: url("https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwcGFub3JhbWF8ZW58MHx8MHx8&w=1000&q=80");
+    background-size: cover;
+    color: white;
+}
+
+a {
+    /*link styles*/
+    color: lightseagreen;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: yellow;
+  }
