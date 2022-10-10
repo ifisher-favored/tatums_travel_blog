@@ -8,15 +8,15 @@ h1, h3 {
     font-family: Geneva;
 }
 
-/*changed background color of body selector 
+/*changed background color of body selector */
 body {
     background-color: #e0ffff;
 }
 
 /*having difficulty adding the gradient*/
-article {
+    article {
 
-    background: linear-gradient (#e0ffff, yellow);
+         background: linear-gradient (to bottom, #e0ffff,  rgb(0, 85, 255);
 }
 
 /*added image pattern behind the header only*/
